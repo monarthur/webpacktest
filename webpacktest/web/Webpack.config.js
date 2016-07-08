@@ -1,7 +1,7 @@
 ﻿module.exports = {
-    entry: './js/src/main.js',
+    entry: './src/main.js',
     output: {
-        filename: './js/common.js'
+        filename: './public/js/main.js'
     },
     devtool: 'source-map',
     resolve: {
